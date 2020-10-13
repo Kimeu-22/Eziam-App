@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".HomePageActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome to Eziam"
+        android:textStyle="italic"
+        android:textSize="40sp"
+        android:fontFamily="sans-serif-black"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="50dp"/>
+
+    <Button
+        android:id="@+id/visitor_registration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visitor registration"
+        android:textColor="#fff"
+        android:backgroundTint="#000"
+        android:background="@drawable/round_button"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"/>
+
+    <Button
+        android:id="@+id/visitor_logs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Visitor Logs"
+        android:textColor="#fff"
+        android:backgroundTint="#000"
+        android:background="@drawable/round_button"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"/>
+
+</LinearLayout>

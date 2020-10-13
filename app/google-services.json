@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "918997983030",
+    "firebase_url": "https://eziam-5f04e.firebaseio.com",
+    "project_id": "eziam-5f04e",
+    "storage_bucket": "eziam-5f04e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918997983030:android:1c160b0ec5fe48be759d97",
+        "android_client_info": {
+          "package_name": "com.example.eziam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918997983030-mf59oa98t09sm55l57betqosavifeqcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eziam",
+            "certificate_hash": "353f3af368276b747e6fa1ff609cf8693073deaa"
+          }
+        },
+        {
+          "client_id": "918997983030-2t72map9m7mshtp7n9olqtartvs3udfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMRV3ZNrH4GKHzGmRFZE2ARGh7c60bMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918997983030-2t72map9m7mshtp7n9olqtartvs3udfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
